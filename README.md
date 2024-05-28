@@ -48,7 +48,7 @@ Mail Merge is a powerful script designed to streamline your email communication 
 
 15. Check your email. The email should have been sent by now.
 
-## Common Fixes for Common Mistakes
+## Common Fixes 
 
 1. **Leave the "Email Sent" Cell Blank:**
    Ensure the "Email Sent" cell is left blank before running the script to avoid errors.
